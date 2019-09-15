@@ -30,7 +30,6 @@ ul {
 .shape-list > .shape-item > #curvedarrow::after {
   content: ' ';
   position: absolute;
-  border: 0 solid transparent;
   border-top: 3px solid red;
   border-radius: 20px 0 0 0;
   top: -12px;
